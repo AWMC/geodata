@@ -1,6 +1,13 @@
-## AWMC Data in GeoJSON Format
+## AWMC Data in GeoJSON
  
 One of the goals of the Ancient World Mapping Center (AWMC) is to provide freely accessable, highly accurate geospatial data for the ancient world. To facilitate this endeavor and support the linked data community, the AWMC will use this space on GitHub to offer our current working data set. Expect to see further enhancements and developments as we refine our old files and integrate new data sets into our work. 
+
+## Directory Format
+
+Cultural Data contains data on aqueducts, roads, regional names, and other human-made and imagined features.
+
+Physical Data contains information on coastlines, inland water, river lines, and other similar features.
+
 
 ## Contributors
 
