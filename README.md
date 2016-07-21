@@ -15,4 +15,4 @@ Ryan Horne and Gabe Moss are currently the primary contributors to this reposito
 
 ## License
 
-The GeoJson files are offered under the ODC Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). Data is derived from the Barrington Atlas of the Greek and Roman World, OpenStreetMap (https://www.openstreetmap.org/).
+The GeoJson files are offered under the ODC Open Database License (http://opendatacommons.org/licenses/odbl/1.0/). Data is derived from the Barrington Atlas of the Greek and Roman World, and uses AWMC modifications to OpenStreetMap (https://www.openstreetmap.org/), which is under the ODC Open Database License.
