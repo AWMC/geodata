@@ -8,7 +8,7 @@ Cultural Data contains data on aqueducts, roads, regional names, and other human
 
 Physical Data contains information on coastlines, inland water, river lines, and other similar features.
 
-The "Shapefiles" zip-folder contains an archived copy of all AWMC geospatial data in ESRI shapefile format, for ease of use in ArcMap, ArcGIS Pro, and other ESRI software.  The shapefiles zip-folder will be updated periodically as AWMC makes substantial revisions and expansions to its data--however, the GeoJSONs continue to provide the most up-to-date data.  
+The "Shapefiles" zip-folders contain archived copies of all AWMC geospatial data in ESRI shapefile format, for ease of use in ArcMap, ArcGIS Pro, and other ESRI software.  The shapefiles zip-folders will be updated periodically as AWMC makes substantial revisions and expansions--however, the GeoJSONs continue to provide the most up-to-date data.  
 
 
 ## Contributors
